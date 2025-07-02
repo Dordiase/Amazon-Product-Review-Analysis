@@ -102,8 +102,6 @@ The following visuals were created using Excel's built-in charting tools:
 
 ├── Amazon_Project_Cleaned.xlsx
 
-├── screenshots/
-
 │ └── dashboard.png
 
 └── README.md
